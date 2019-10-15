@@ -1,2 +1,2 @@
 # Divisible-sum-pairs
-It is a solution to Divisible Sum Pairs problem.
+It is a solution to well known problem called Divisible Sum Pairs.
